@@ -16,7 +16,10 @@ Install Jupyter Lan in Conda using command prompt:
 python -m pip install jupyter notebook -U
 
 # Utility
+Utilizing the data from Bitstamp and Coinbase, this program will analyze historical trading prices of Bitcoin and determine the value of arbitrage opportunities in order determine the cumulative sum of arbitrage points.  Data is analyzed and graphed to provide visualization of the price points.
 
 # Contributors
+Starter code was provided by the UC Berkely Extensions Fintech Bootcamp program.  Modifications were performed by James Milan.
 
 # License
+The project is only licesned for use by James Milan and the contributors of the UC Berkeley Extensions Fintech Bootcamp Program.
