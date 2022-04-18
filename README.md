@@ -22,4 +22,4 @@ Utilizing the data from Bitstamp and Coinbase, this program will analyze histori
 Starter code was provided by the UC Berkely Extensions Fintech Bootcamp program.  Modifications were performed by James Milan.
 
 # License
-The project is only BSD 3-Clause licensed for use by James Milan and the contributors of the UC Berkeley Extensions Fintech Bootcamp Program.
+The project is BSD 3-Clause licensed for use only by James Milan and the contributors of the UC Berkeley Extensions Fintech Bootcamp Program.
