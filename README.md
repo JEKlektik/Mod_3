@@ -11,7 +11,7 @@ Navigate to the folder you would like to install and type command:
 
 git clone https://github.com/JEKlektik/Mod_3.git
 
-Inastall Jupyter Lan in Conda using command prompt:
+Install Jupyter Lan in Conda using command prompt:
 
 python -m pip install jupyter notebook -U
 
